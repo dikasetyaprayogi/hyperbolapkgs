@@ -7,4 +7,8 @@ why icewm ? compared to others lightweight wm, icewm have theme engine and many 
 here is some sample screenshot build using packages from this repo.
 
 
-![plastique1] (https://raw.githubusercontent.com/dikasetyaprayogi/hyperbolapkgs/main/Screenshot-2021-10-18-13-29-49.png)
+![mac1](https://raw.githubusercontent.com/dikasetyaprayogi/hyperbolapkgs/main/Screenshot-2021-10-18-13-29-49.png)
+![mac2](https://raw.githubusercontent.com/dikasetyaprayogi/hyperbolapkgs/main/Screenshot-2021-10-18-13-32-02.png)
+![mac3](https://raw.githubusercontent.com/dikasetyaprayogi/hyperbolapkgs/main/Screenshot-2021-10-18-13-46-27.png)
+![icedesert](https://raw.githubusercontent.com/dikasetyaprayogi/hyperbolapkgs/main/Screenshot-2021-10-18-13-55-57.png)
+![nanoblue](https://raw.githubusercontent.com/dikasetyaprayogi/hyperbolapkgs/main/Screenshot-2021-10-18-14-13-49.png)
